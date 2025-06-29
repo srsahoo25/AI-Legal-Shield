@@ -64,8 +64,6 @@ Used **TF-IDF Vectorization**:
 ---
 
 
----
-
 ## 🧠 Future Scope
 
 - Implement deep learning models (LSTM/BERT) for semantic analysis.
